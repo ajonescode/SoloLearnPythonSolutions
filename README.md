@@ -1,2 +1,2 @@
 # SoloLearnPythonSolutions
-Python Solutions from Challenges on SoloLearn
+Here are my completed Python Solutions from SoloLearn
